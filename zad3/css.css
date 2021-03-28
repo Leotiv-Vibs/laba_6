@@ -1,13 +1,5 @@
-#spisok1{
-    list-style-type: decimal;
+#blok1, #blok2, #blok3{
+    border: 1px solid red;
+    width: 150px;
+    height: 50px;
 }
-#spisok2{
-    list-style-type: lower-roman;
-}
-#spisok3{
-    list-style-type: upper-roman;
-}
-#spisok4{
-    list-style-type: lower-alpha;
-}
-
